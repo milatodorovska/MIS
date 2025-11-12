@@ -1,7 +1,5 @@
 
 # Lab 1
-A new Flutter project.
-
 
 <img width="358" height="809" alt="1" src="https://github.com/user-attachments/assets/b045a84f-e691-42ba-9463-3aa7788b3bd7" />
 <img width="358" height="809" alt="2" src="https://github.com/user-attachments/assets/7fa011d0-900a-444d-b9b5-b307c2cc302a" />
